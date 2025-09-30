@@ -12,14 +12,14 @@
   },
   "license": "GPL-2.0",
   "dependencies": {
-    "jimp": "^0.2.28",
-    "minimist": "^1.2.0",
+    "jimp": "^1.6.0",
+    "minimist": "^1.2.8",
     "node-base64-image": "^1.0.5",
     "potrace": "git+https://github.com/stickerum/node-potrace.git",
     "simple-node-logger": "^0.93.37",
     "tinycolor2": "^1.4.1"
   },
   "devDependencies": {
-    "pkg": "^4.3.1"
+    "pkg": "^4.5.1"
   }
 }
